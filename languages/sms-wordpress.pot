@@ -1,0 +1,1213 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Package Name\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-11 01:59+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: helpers.php:24 inc/helpers.php:228
+#, php-format
+msgid "Success! Message SID: %s"
+msgstr ""
+
+#: helpers.php:27 inc/helpers.php:231
+#, php-format
+msgid "****** API Error: %s ******"
+msgstr ""
+
+#: helpers.php:32 inc/helpers.php:236
+msgid ""
+"Some details are missing. Please make sure you have added all details in the "
+"settings tab."
+msgstr ""
+
+#: helpers.php:113
+msgid "From: "
+msgstr ""
+
+#: helpers.php:113
+msgid "To: "
+msgstr ""
+
+#: helpers.php:126
+msgid "****** Missing Twilio Number ******"
+msgstr ""
+
+#: helpers.php:130
+msgid "****** Missing Recipient Number ******"
+msgstr ""
+
+#: helpers.php:134
+msgid "****** Missing Message ******"
+msgstr ""
+
+#: helpers.php:138
+msgid "****** Missing Account SID ******"
+msgstr ""
+
+#: helpers.php:142
+msgid "****** Missing Auth Token ******"
+msgstr ""
+
+#: helpers.php:167
+msgid "Mobile Number"
+msgstr ""
+
+#: helpers.php:296
+msgid ""
+"Some details are missing. Please fill all the fields below and try again."
+msgstr ""
+
+#: helpers.php:309
+msgid ""
+"If you are sending messages while in trial mode, the recipient phone number "
+"must be verified with Twilio."
+msgstr ""
+
+#: helpers.php:314
+msgid "Recipient Number"
+msgstr ""
+
+#: helpers.php:318
+msgid ""
+"The destination phone number. Format with a '+' and country code e.g., "
+"+16175551212 "
+msgstr ""
+
+#: helpers.php:322
+msgid "Message Body"
+msgstr ""
+
+#: helpers.php:325
+msgid "The text of the message you want to send, limited to 1600 characters."
+msgstr ""
+
+#: helpers.php:333
+msgid "Send Message"
+msgstr ""
+
+#: helpers.php:360
+msgid "Logs Cleared"
+msgstr ""
+
+#: helpers.php:366
+msgid "Logging currently disabled."
+msgstr ""
+
+#: helpers.php:375
+msgid "Clear Logs"
+msgstr ""
+
+#: helpers.php:398
+msgid "Notification Number:"
+msgstr ""
+
+#: helpers.php:400
+msgid "Enter Notification Number"
+msgstr ""
+
+#: helpers.php:401
+msgid "Set the number to receive SMS."
+msgstr ""
+
+#: helpers.php:402
+msgid "Leave empty if you want to receive sms on the main settings number."
+msgstr ""
+
+#: helpers.php:407
+msgid "New Post Published"
+msgstr ""
+
+#: helpers.php:410 helpers.php:436 helpers.php:461 helpers.php:487
+msgid "Activate:"
+msgstr ""
+
+#: helpers.php:423 helpers.php:448 helpers.php:474 helpers.php:503
+msgid "Message:"
+msgstr ""
+
+#: helpers.php:426 helpers.php:451 helpers.php:477 helpers.php:506
+msgid "Enter the content of the sms message"
+msgstr ""
+
+#: helpers.php:427
+msgid ""
+"Post title: %post_title%, Post content: %post_content%, Post url: %post_url"
+"%, Post date: %post_date%"
+msgstr ""
+
+#: helpers.php:433
+msgid "New User Registered"
+msgstr ""
+
+#: helpers.php:452
+msgid ""
+"User Login: %user_login%, User email: %user_email%, Register date: "
+"%date_register%"
+msgstr ""
+
+#: helpers.php:458
+msgid "New Comment"
+msgstr ""
+
+#: helpers.php:478
+msgid ""
+"Comment Author: %comment_author%, Author email: %comment_author_email%, "
+"Author url: %comment_author_url%, Author IP: %comment_author_IP%, Comment "
+"date: %comment_date%, Comment content: %comment_content%"
+msgstr ""
+
+#: helpers.php:484
+msgid "New Login"
+msgstr ""
+
+#: helpers.php:507
+msgid "Username: %username_login%, Nickname: %display_name%"
+msgstr ""
+
+#: admin/classes/admin-options.class.php:224
+msgid "Error while saving the changes."
+msgstr ""
+
+#: admin/classes/admin-options.class.php:284
+msgid "Settings successfully imported."
+msgstr ""
+
+#: admin/classes/admin-options.class.php:296
+#: admin/classes/admin-options.class.php:312
+msgid "Default settings restored."
+msgstr ""
+
+#: admin/classes/admin-options.class.php:383
+msgid "Settings saved."
+msgstr ""
+
+#: admin/classes/admin-options.class.php:562
+msgid "You have unsaved changes, save your changes!"
+msgstr ""
+
+#: admin/classes/admin-options.class.php:564
+msgid "show all settings"
+msgstr ""
+
+#: admin/classes/admin-options.class.php:566 admin/fields/icon/icon.php:57
+#: admin/fields/map/map.php:23
+msgid "Search..."
+msgstr ""
+
+#: admin/classes/admin-options.class.php:569
+#: admin/classes/admin-options.class.php:692
+msgid "Save"
+msgstr ""
+
+#: admin/classes/admin-options.class.php:569
+#: admin/classes/admin-options.class.php:692
+msgid "Saving..."
+msgstr ""
+
+#: admin/classes/admin-options.class.php:570
+#: admin/classes/admin-options.class.php:693
+msgid "Reset Section"
+msgstr ""
+
+#: admin/classes/admin-options.class.php:570
+#: admin/classes/admin-options.class.php:693
+msgid "Are you sure to reset this section options?"
+msgstr ""
+
+#: admin/classes/admin-options.class.php:571
+#: admin/classes/admin-options.class.php:694
+msgid "Reset All"
+msgstr ""
+
+#: admin/classes/admin-options.class.php:571
+#: admin/classes/admin-options.class.php:694
+#: admin/classes/comment-options.class.php:213
+#: admin/classes/metabox-options.class.php:282
+#: admin/fields/backup/backup.php:31
+msgid "Reset"
+msgstr ""
+
+#: admin/classes/admin-options.class.php:571
+#: admin/classes/admin-options.class.php:694
+msgid "Are you sure you want to reset all settings to default values?"
+msgstr ""
+
+#: admin/classes/admin-options.class.php:669
+#: admin/classes/comment-options.class.php:196
+#: admin/classes/metabox-options.class.php:265
+#: admin/fields/button_set/button_set.php:56
+#: admin/fields/checkbox/checkbox.php:76 admin/fields/radio/radio.php:75
+#: admin/fields/select/select.php:113 admin/functions/actions.php:41
+msgid "No data available."
+msgstr ""
+
+#: admin/classes/comment-options.class.php:214
+#: admin/classes/metabox-options.class.php:283
+msgid "update post"
+msgstr ""
+
+#: admin/classes/comment-options.class.php:214
+#: admin/classes/metabox-options.class.php:283
+msgid "Cancel"
+msgstr ""
+
+#: admin/classes/setup.class.php:529
+msgid "Are you sure?"
+msgstr ""
+
+#: admin/classes/setup.class.php:530
+#, php-format
+msgid "Please enter %s or more characters"
+msgstr ""
+
+#: admin/classes/setup.class.php:531
+msgid "Searching..."
+msgstr ""
+
+#: admin/classes/setup.class.php:532
+msgid "No results found."
+msgstr ""
+
+#: admin/classes/setup.class.php:634
+msgid "Oops! Not allowed."
+msgstr ""
+
+#: admin/classes/setup.class.php:708 admin/classes/setup.class.php:712
+msgid "Field not found!"
+msgstr ""
+
+#: admin/classes/shortcode-options.class.php:251
+#: admin/fields/group/group.php:23 inc/features.php:42
+msgid "Add New"
+msgstr ""
+
+#: admin/classes/shortcode-options.class.php:288
+#: admin/functions/actions.php:16 admin/functions/actions.php:68
+#: admin/functions/actions.php:106 admin/functions/actions.php:141
+#: admin/functions/actions.php:170
+msgid "Error: Invalid nonce verification."
+msgstr ""
+
+#: admin/fields/background/background.php:36 admin/fields/media/media.php:57
+msgid "Not selected"
+msgstr ""
+
+#: admin/fields/background/background.php:72 admin/fields/date/date.php:31
+msgid "From"
+msgstr ""
+
+#: admin/fields/background/background.php:90 admin/fields/date/date.php:32
+msgid "To"
+msgstr ""
+
+#: admin/fields/background/background.php:108
+msgid "Direction"
+msgstr ""
+
+#: admin/fields/background/background.php:114
+msgid "Gradient Direction"
+msgstr ""
+
+#: admin/fields/background/background.php:115
+msgid "&#8659; top to bottom"
+msgstr ""
+
+#: admin/fields/background/background.php:116
+msgid "&#8658; left to right"
+msgstr ""
+
+#: admin/fields/background/background.php:117
+msgid "&#8664; corner top to right"
+msgstr ""
+
+#: admin/fields/background/background.php:118
+msgid "&#8665; corner top to left"
+msgstr ""
+
+#: admin/fields/background/background.php:161
+msgid "Background Position"
+msgstr ""
+
+#: admin/fields/background/background.php:162
+msgid "Left Top"
+msgstr ""
+
+#: admin/fields/background/background.php:163
+msgid "Left Center"
+msgstr ""
+
+#: admin/fields/background/background.php:164
+msgid "Left Bottom"
+msgstr ""
+
+#: admin/fields/background/background.php:165
+msgid "Center Top"
+msgstr ""
+
+#: admin/fields/background/background.php:166
+msgid "Center Center"
+msgstr ""
+
+#: admin/fields/background/background.php:167
+msgid "Center Bottom"
+msgstr ""
+
+#: admin/fields/background/background.php:168
+msgid "Right Top"
+msgstr ""
+
+#: admin/fields/background/background.php:169
+msgid "Right Center"
+msgstr ""
+
+#: admin/fields/background/background.php:170
+msgid "Right Bottom"
+msgstr ""
+
+#: admin/fields/background/background.php:184
+msgid "Background Repeat"
+msgstr ""
+
+#: admin/fields/background/background.php:185
+msgid "Repeat"
+msgstr ""
+
+#: admin/fields/background/background.php:186
+msgid "No Repeat"
+msgstr ""
+
+#: admin/fields/background/background.php:187
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: admin/fields/background/background.php:188
+msgid "Repeat Vertically"
+msgstr ""
+
+#: admin/fields/background/background.php:202
+msgid "Background Attachment"
+msgstr ""
+
+#: admin/fields/background/background.php:203
+msgid "Scroll"
+msgstr ""
+
+#: admin/fields/background/background.php:204
+msgid "Fixed"
+msgstr ""
+
+#: admin/fields/background/background.php:218
+msgid "Background Size"
+msgstr ""
+
+#: admin/fields/background/background.php:219
+msgid "Cover"
+msgstr ""
+
+#: admin/fields/background/background.php:220
+msgid "Contain"
+msgstr ""
+
+#: admin/fields/background/background.php:221
+msgid "Auto"
+msgstr ""
+
+#: admin/fields/background/background.php:235
+msgid "Background Origin"
+msgstr ""
+
+#: admin/fields/background/background.php:236
+#: admin/fields/background/background.php:254
+msgid "Padding Box"
+msgstr ""
+
+#: admin/fields/background/background.php:237
+#: admin/fields/background/background.php:253
+msgid "Border Box"
+msgstr ""
+
+#: admin/fields/background/background.php:238
+#: admin/fields/background/background.php:255
+msgid "Content Box"
+msgstr ""
+
+#: admin/fields/background/background.php:252
+msgid "Background Clip"
+msgstr ""
+
+#: admin/fields/background/background.php:269
+msgid "Background Blend Mode"
+msgstr ""
+
+#: admin/fields/background/background.php:270
+#: admin/fields/link_color/link_color.php:36
+#: admin/fields/typography/typography.php:186
+msgid "Normal"
+msgstr ""
+
+#: admin/fields/background/background.php:271
+msgid "Multiply"
+msgstr ""
+
+#: admin/fields/background/background.php:272
+msgid "Screen"
+msgstr ""
+
+#: admin/fields/background/background.php:273
+msgid "Overlay"
+msgstr ""
+
+#: admin/fields/background/background.php:274
+msgid "Darken"
+msgstr ""
+
+#: admin/fields/background/background.php:275
+msgid "Lighten"
+msgstr ""
+
+#: admin/fields/background/background.php:276
+msgid "Color Dodge"
+msgstr ""
+
+#: admin/fields/background/background.php:277
+msgid "Saturation"
+msgstr ""
+
+#: admin/fields/background/background.php:278
+msgid "Color"
+msgstr ""
+
+#: admin/fields/background/background.php:279
+msgid "Luminosity"
+msgstr ""
+
+#: admin/fields/backup/backup.php:26
+msgid "Import"
+msgstr ""
+
+#: admin/fields/backup/backup.php:29
+msgid "Export & Download"
+msgstr ""
+
+#: admin/fields/border/border.php:25 admin/fields/spacing/spacing.php:25
+msgid "top"
+msgstr ""
+
+#: admin/fields/border/border.php:26 admin/fields/spacing/spacing.php:26
+msgid "right"
+msgstr ""
+
+#: admin/fields/border/border.php:27 admin/fields/spacing/spacing.php:27
+msgid "bottom"
+msgstr ""
+
+#: admin/fields/border/border.php:28 admin/fields/spacing/spacing.php:28
+msgid "left"
+msgstr ""
+
+#: admin/fields/border/border.php:29 admin/fields/spacing/spacing.php:29
+msgid "all"
+msgstr ""
+
+#: admin/fields/border/border.php:51
+#: admin/fields/typography/typography.php:214
+msgid "Solid"
+msgstr ""
+
+#: admin/fields/border/border.php:52
+#: admin/fields/typography/typography.php:217
+msgid "Dashed"
+msgstr ""
+
+#: admin/fields/border/border.php:53
+#: admin/fields/typography/typography.php:216
+msgid "Dotted"
+msgstr ""
+
+#: admin/fields/border/border.php:54
+#: admin/fields/typography/typography.php:215
+msgid "Double"
+msgstr ""
+
+#: admin/fields/border/border.php:55
+msgid "Inset"
+msgstr ""
+
+#: admin/fields/border/border.php:56
+msgid "Outset"
+msgstr ""
+
+#: admin/fields/border/border.php:57
+msgid "Groove"
+msgstr ""
+
+#: admin/fields/border/border.php:58
+msgid "ridge"
+msgstr ""
+
+#: admin/fields/border/border.php:59
+#: admin/fields/typography/typography.php:199
+#: admin/fields/typography/typography.php:213
+msgid "None"
+msgstr ""
+
+#: admin/fields/dimensions/dimensions.php:22
+msgid "width"
+msgstr ""
+
+#: admin/fields/dimensions/dimensions.php:23
+msgid "height"
+msgstr ""
+
+#: admin/fields/gallery/gallery.php:20
+msgid "Add Gallery"
+msgstr ""
+
+#: admin/fields/gallery/gallery.php:21
+msgid "Edit Gallery"
+msgstr ""
+
+#: admin/fields/gallery/gallery.php:22
+msgid "Clear"
+msgstr ""
+
+#: admin/fields/group/group.php:35 admin/fields/repeater/repeater.php:27
+msgid "Error: Field ID conflict."
+msgstr ""
+
+#: admin/fields/group/group.php:46 admin/fields/group/group.php:87
+#: admin/fields/repeater/repeater.php:48 admin/fields/repeater/repeater.php:76
+msgid "Are you sure to delete this item?"
+msgstr ""
+
+#: admin/fields/group/group.php:121 admin/fields/repeater/repeater.php:89
+msgid "You cannot add more."
+msgstr ""
+
+#: admin/fields/group/group.php:122 admin/fields/repeater/repeater.php:90
+msgid "You cannot remove more."
+msgstr ""
+
+#: admin/fields/icon/icon.php:20 admin/fields/icon/icon.php:53
+msgid "Add Icon"
+msgstr ""
+
+#: admin/fields/icon/icon.php:21
+msgid "Remove Icon"
+msgstr ""
+
+#: admin/fields/link/link.php:20
+msgid "Add Link"
+msgstr ""
+
+#: admin/fields/link/link.php:21
+msgid "Edit Link"
+msgstr ""
+
+#: admin/fields/link/link.php:22
+msgid "Remove Link"
+msgstr ""
+
+#: admin/fields/link_color/link_color.php:37
+msgid "Hover"
+msgstr ""
+
+#: admin/fields/link_color/link_color.php:38
+msgid "Active"
+msgstr ""
+
+#: admin/fields/link_color/link_color.php:39
+msgid "Visited"
+msgstr ""
+
+#: admin/fields/link_color/link_color.php:40
+msgid "Focus"
+msgstr ""
+
+#: admin/fields/map/map.php:24
+msgid "Latitude"
+msgstr ""
+
+#: admin/fields/map/map.php:25
+msgid "Longitude"
+msgstr ""
+
+#: admin/fields/media/media.php:23 admin/fields/upload/upload.php:21
+msgid "Upload"
+msgstr ""
+
+#: admin/fields/media/media.php:24 admin/fields/upload/upload.php:22
+msgid "Remove"
+msgstr ""
+
+#: admin/fields/sorter/sorter.php:21
+msgid "Enabled"
+msgstr ""
+
+#: admin/fields/sorter/sorter.php:22
+msgid "Disabled"
+msgstr ""
+
+#: admin/fields/switcher/switcher.php:20
+msgid "On"
+msgstr ""
+
+#: admin/fields/switcher/switcher.php:21
+msgid "Off"
+msgstr ""
+
+#: admin/fields/typography/typography.php:96
+msgid "Font Family"
+msgstr ""
+
+#: admin/fields/typography/typography.php:97
+msgid "Select a font"
+msgstr ""
+
+#: admin/fields/typography/typography.php:105
+msgid "Backup Font Family"
+msgstr ""
+
+#: admin/fields/typography/typography.php:119
+#: admin/fields/typography/typography.php:132
+#: admin/fields/typography/typography.php:145
+#: admin/fields/typography/typography.php:160
+#: admin/fields/typography/typography.php:176
+#: admin/fields/typography/typography.php:189
+#: admin/fields/typography/typography.php:203
+#: admin/fields/typography/typography.php:221
+msgid "Default"
+msgstr ""
+
+#: admin/fields/typography/typography.php:130
+msgid "Font Style"
+msgstr ""
+
+#: admin/fields/typography/typography.php:144
+#: admin/fields/typography/typography.php:145
+msgid "Load Extra Styles"
+msgstr ""
+
+#: admin/fields/typography/typography.php:158
+msgid "Subset"
+msgstr ""
+
+#: admin/fields/typography/typography.php:168
+msgid "Text Align"
+msgstr ""
+
+#: admin/fields/typography/typography.php:170
+msgid "Inherit"
+msgstr ""
+
+#: admin/fields/typography/typography.php:171
+msgid "Left"
+msgstr ""
+
+#: admin/fields/typography/typography.php:172
+msgid "Center"
+msgstr ""
+
+#: admin/fields/typography/typography.php:173
+msgid "Right"
+msgstr ""
+
+#: admin/fields/typography/typography.php:174
+msgid "Justify"
+msgstr ""
+
+#: admin/fields/typography/typography.php:175
+msgid "Initial"
+msgstr ""
+
+#: admin/fields/typography/typography.php:184
+msgid "Font Variant"
+msgstr ""
+
+#: admin/fields/typography/typography.php:187
+msgid "Small Caps"
+msgstr ""
+
+#: admin/fields/typography/typography.php:188
+msgid "All Small Caps"
+msgstr ""
+
+#: admin/fields/typography/typography.php:197
+msgid "Text Transform"
+msgstr ""
+
+#: admin/fields/typography/typography.php:200
+msgid "Capitalize"
+msgstr ""
+
+#: admin/fields/typography/typography.php:201
+msgid "Uppercase"
+msgstr ""
+
+#: admin/fields/typography/typography.php:202
+msgid "Lowercase"
+msgstr ""
+
+#: admin/fields/typography/typography.php:211
+msgid "Text Decoration"
+msgstr ""
+
+#: admin/fields/typography/typography.php:218
+msgid "Wavy"
+msgstr ""
+
+#: admin/fields/typography/typography.php:219
+msgid "Overline"
+msgstr ""
+
+#: admin/fields/typography/typography.php:220
+msgid "Line-through"
+msgstr ""
+
+#: admin/fields/typography/typography.php:233
+msgid "Font Size"
+msgstr ""
+
+#: admin/fields/typography/typography.php:245
+msgid "Line Height"
+msgstr ""
+
+#: admin/fields/typography/typography.php:257
+msgid "Letter Spacing"
+msgstr ""
+
+#: admin/fields/typography/typography.php:269
+msgid "Word Spacing"
+msgstr ""
+
+#: admin/fields/typography/typography.php:284
+msgid "Font Color"
+msgstr ""
+
+#: admin/fields/typography/typography.php:295
+msgid "Custom Style"
+msgstr ""
+
+#: admin/fields/typography/typography.php:362
+msgid "Custom Web Fonts"
+msgstr ""
+
+#: admin/fields/typography/typography.php:368
+msgid "Safe Web Fonts"
+msgstr ""
+
+#: admin/fields/typography/typography.php:388
+msgid "Google Web Fonts"
+msgstr ""
+
+#: admin/functions/actions.php:72 admin/functions/actions.php:110
+msgid "Error: Invalid key."
+msgstr ""
+
+#: admin/functions/actions.php:114
+msgid "Error: The response is not a valid JSON response."
+msgstr ""
+
+#: admin/functions/actions.php:174
+msgid "Error: Invalid term ID."
+msgstr ""
+
+#: admin/functions/actions.php:180
+msgid "Error: You do not have permission to do that."
+msgstr ""
+
+#: admin/functions/validate.php:14 admin/functions/validate.php:86
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: admin/functions/validate.php:32 admin/functions/validate.php:106
+msgid "Please enter a valid number."
+msgstr ""
+
+#: admin/functions/validate.php:50 admin/functions/validate.php:126
+msgid "This field is required."
+msgstr ""
+
+#: admin/functions/validate.php:68 admin/functions/validate.php:146
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: gateways/twilio/tests/Twilio/Unit/TwiML/FaxResponseTest.php:11
+#: gateways/twilio/tests/Twilio/Unit/TwiML/MessagingResponseTest.php:11
+#: gateways/twilio/tests/Twilio/Unit/TwiML/VoiceResponseTest.php:11
+msgid "Hey no tags!"
+msgstr ""
+
+#: gateways/twilio/tests/Twilio/Unit/TwiML/FaxResponseTest.php:18
+#: gateways/twilio/tests/Twilio/Unit/TwiML/MessagingResponseTest.php:18
+#: gateways/twilio/tests/Twilio/Unit/TwiML/MessagingResponseTest.php:50
+#: gateways/twilio/tests/Twilio/Unit/TwiML/VoiceResponseTest.php:18
+msgid "before"
+msgstr ""
+
+#: gateways/twilio/tests/Twilio/Unit/TwiML/FaxResponseTest.php:21
+#: gateways/twilio/tests/Twilio/Unit/TwiML/FaxResponseTest.php:44
+msgid "Content"
+msgstr ""
+
+#: gateways/twilio/tests/Twilio/Unit/TwiML/FaxResponseTest.php:24
+#: gateways/twilio/tests/Twilio/Unit/TwiML/MessagingResponseTest.php:23
+#: gateways/twilio/tests/Twilio/Unit/TwiML/MessagingResponseTest.php:53
+#: gateways/twilio/tests/Twilio/Unit/TwiML/VoiceResponseTest.php:23
+msgid "after"
+msgstr ""
+
+#: gateways/twilio/tests/Twilio/Unit/TwiML/MessagingResponseTest.php:51
+msgid "content"
+msgstr ""
+
+#: inc/features.php:7
+msgid "Newsletter Options"
+msgstr ""
+
+#: inc/features.php:8
+msgid "Send SMS Newsletter"
+msgstr ""
+
+#: inc/features.php:38 inc/features.php:39 inc/features.php:41
+msgid "Subscriber"
+msgstr ""
+
+#: inc/features.php:40 inc/views/send_sms_newsletter.php:99
+msgid "Subscribers"
+msgstr ""
+
+#: inc/features.php:43
+msgid "Add New Subscriber"
+msgstr ""
+
+#: inc/features.php:44
+msgid "New Subscriber"
+msgstr ""
+
+#: inc/features.php:45
+msgid "Edit Subscriber"
+msgstr ""
+
+#: inc/features.php:46 inc/features.php:61
+msgid "View Subscriber"
+msgstr ""
+
+#: inc/features.php:47
+msgid "All Subscribers"
+msgstr ""
+
+#: inc/features.php:48
+msgid "Search Subscribers"
+msgstr ""
+
+#: inc/features.php:49
+msgid "No subscribers found."
+msgstr ""
+
+#: inc/features.php:50
+msgid "No subscribers found in Trash."
+msgstr ""
+
+#: inc/features.php:51
+msgid "Filter subscribers list"
+msgstr ""
+
+#: inc/features.php:52
+msgid "Subscribers list navigation"
+msgstr ""
+
+#: inc/features.php:53
+msgid "Subscribers list"
+msgstr ""
+
+#: inc/features.php:73 inc/views/send_sms_newsletter.php:96
+msgid "Groups"
+msgstr ""
+
+#: inc/features.php:98
+msgid "You are already subscribed!"
+msgstr ""
+
+#: inc/features.php:142
+msgid ""
+"A code was sent to your mobile number.<br /> To confirm your subscription "
+"paste the code below!"
+msgstr ""
+
+#: inc/features.php:153 inc/features.php:250
+msgid "You are now subscribed to our news letter!"
+msgstr ""
+
+#: inc/features.php:166
+msgid "You are already un-subscribed!"
+msgstr ""
+
+#: inc/features.php:172
+msgid "You are now un-subscribed from our news letter!"
+msgstr ""
+
+#: inc/features.php:256
+msgid "Invalid confirmation code!"
+msgstr ""
+
+#: inc/features.php:276
+msgid "Once every minute"
+msgstr ""
+
+#: inc/helpers.php:209
+msgid "No subscribers found matching the given criteria."
+msgstr ""
+
+#: inc/helpers.php:215
+msgid "****** Missing Service ID ******"
+msgstr ""
+
+#: inc/views/newsletter.php:14
+msgid "Main Settings"
+msgstr ""
+
+#: inc/views/newsletter.php:17
+msgid "Show Groups"
+msgstr ""
+
+#: inc/views/newsletter.php:20
+msgid "Display groups option on the Newsletter form"
+msgstr ""
+
+#: inc/views/newsletter.php:24
+msgid "Verify Subscriber"
+msgstr ""
+
+#: inc/views/newsletter.php:27
+msgid ""
+"Subscribers recieve codes to verify their subscriptions to the newsletter"
+msgstr ""
+
+#: inc/views/newsletter.php:32
+msgid "Welcome SMS"
+msgstr ""
+
+#: inc/views/newsletter.php:35
+msgid "Enable"
+msgstr ""
+
+#: inc/views/newsletter.php:38
+msgid "Send Welcome SMS to subscribers"
+msgstr ""
+
+#: inc/views/newsletter.php:42
+msgid "Welcome Text"
+msgstr ""
+
+#: inc/views/newsletter.php:45
+msgid "Short tags: Name: %subscriber_name%, Mobile Number: %subscriber_number%"
+msgstr ""
+
+#: inc/views/newsletter.php:50
+msgid "Newsletter Form"
+msgstr ""
+
+#: inc/views/newsletter.php:53
+msgid "Name Place Holder"
+msgstr ""
+
+#: inc/views/newsletter.php:55
+msgid "Enter Name Place Holder"
+msgstr ""
+
+#: inc/views/newsletter.php:59
+msgid "Number Place Holder"
+msgstr ""
+
+#: inc/views/newsletter.php:61
+msgid "Enter Number Place Holder"
+msgstr ""
+
+#: inc/views/newsletter.php:65
+msgid "Confirmation Text"
+msgstr ""
+
+#: inc/views/newsletter.php:67
+msgid "Enter Confirmation Text"
+msgstr ""
+
+#: inc/views/newsletter.php:71
+msgid "Enable GDPR"
+msgstr ""
+
+#: inc/views/newsletter.php:74
+msgid "Display GDPR checkbox"
+msgstr ""
+
+#: inc/views/newsletter.php:78
+msgid "GDPR Agreement"
+msgstr ""
+
+#: inc/views/newsletter.php:80
+msgid "Enter GDPR Agreement Text"
+msgstr ""
+
+#: inc/views/newsletter.php:81
+msgid "Display short text for GDPR option"
+msgstr ""
+
+#: inc/views/newsletter.php:85
+msgid "Disable Style"
+msgstr ""
+
+#: inc/views/newsletter.php:88
+msgid "Display plugin's css styles of the form"
+msgstr ""
+
+#: inc/views/newsletter.php:94
+msgid "How to use"
+msgstr ""
+
+#: inc/views/newsletter.php:96
+msgid "1/ PHP CODE:"
+msgstr ""
+
+#: inc/views/newsletter.php:97
+msgid "Copy/paste this code inside themes file of your wordpress site."
+msgstr ""
+
+#: inc/views/newsletter.php:98
+msgid "echo do_shortcode(\"[SMSWP_NEWSLETTER title='Newsletter']\");"
+msgstr ""
+
+#: inc/views/newsletter.php:100
+msgid "2/ Short Code"
+msgstr ""
+
+#: inc/views/newsletter.php:101
+msgid "Copy/paste this Shortcode into your blog posts or page;"
+msgstr ""
+
+#: inc/views/newsletter.php:102
+msgid "Click to copy"
+msgstr ""
+
+#: inc/views/newsletter.php:105
+msgid "3/ Widget:"
+msgstr ""
+
+#: inc/views/newsletter.php:106
+msgid ""
+"Go to Widgets=>Place the newsletter form widget in any sidebar of your "
+"website. "
+msgstr ""
+
+#: inc/views/newsletter.php:113
+msgid "Save Changes"
+msgstr ""
+
+#: inc/views/newsletter_form.php:44
+msgid "Select a group"
+msgstr ""
+
+#: inc/views/newsletter_form.php:66
+msgid "Subscribe"
+msgstr ""
+
+#: inc/views/newsletter_form.php:68
+msgid "Unsubscribe"
+msgstr ""
+
+#: inc/views/send_sms_newsletter.php:86
+msgid "Send from"
+msgstr ""
+
+#: inc/views/send_sms_newsletter.php:88
+msgid "Enter Send from number"
+msgstr ""
+
+#: inc/views/send_sms_newsletter.php:89
+msgid "If it's empty, the main settings' number will be used."
+msgstr ""
+
+#: inc/views/send_sms_newsletter.php:93
+msgid "Send to"
+msgstr ""
+
+#: inc/views/send_sms_newsletter.php:97
+msgid "Wordpress Users"
+msgstr ""
+
+#: inc/views/send_sms_newsletter.php:98
+msgid "Roles"
+msgstr ""
+
+#: inc/views/send_sms_newsletter.php:100
+msgid "Custom Numbers"
+msgstr ""
+
+#: inc/views/send_sms_newsletter.php:104 inc/views/send_sms_newsletter.php:122
+#: inc/views/send_sms_newsletter.php:140 inc/views/send_sms_newsletter.php:156
+msgid "Select All"
+msgstr ""
+
+#: inc/views/send_sms_newsletter.php:170
+msgid "Enter custom numbers saperated by comas"
+msgstr ""
+
+#: inc/views/send_sms_newsletter.php:171
+msgid "Select the list of subscribers."
+msgstr ""
+
+#: inc/views/send_sms_newsletter.php:175
+msgid "Message"
+msgstr ""
+
+#: inc/views/send_sms_newsletter.php:178
+msgid " characters"
+msgstr ""
+
+#: inc/views/send_sms_newsletter.php:182
+msgid "Twilio Account Credit"
+msgstr ""
+
+#: inc/views/send_sms_newsletter.php:188
+msgid "Schedule Message"
+msgstr ""
+
+#: inc/views/send_sms_newsletter.php:199
+msgid "Set Date/Time"
+msgstr ""
+
+#: inc/views/send_sms_newsletter.php:201
+msgid "Enter Date/Time"
+msgstr ""
+
+#: inc/views/send_sms_newsletter.php:214
+msgid "Send SMS"
+msgstr ""
+
+#: inc/widgets/newsletter.php:7
+msgid "SMS Newsletter"
+msgstr ""
+
+#: inc/widgets/newsletter.php:7
+msgid "Display SMS Newsletter subscription widget"
+msgstr ""
+
+#: inc/widgets/newsletter.php:31
+msgid "New title"
+msgstr ""
+
+#: inc/widgets/newsletter.php:35
+msgid "Title:"
+msgstr ""
